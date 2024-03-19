@@ -10,7 +10,7 @@ DentiBelo é um site de portfólio totalmente responsivo, para todos os disposit
 
 ### Screeshots
 
-![Fit Food Desktop Demo](./readme-images/desktop-demo.jpg "Desktop Demo")
+![Fit Food Desktop Demo](./readme-image/desktop-demo.jpg "Desktop Demo")
 
 ### Licença
 
