@@ -2,7 +2,7 @@
 
 <h2 align="center">DenteBelo</h2>
 
-DenteBelo é um site de simulação para consultórios dentarios onde utilizo ferramentas para demostrar habilidades de FrontEnd em um site Estatico.
+DenteBelo é um site de simulação para consultórios dentários onde utilizo ferramentas para demostrar habilidades de FrontEnd em um site Estático.
 
 <a href=""><strong>➥ Live Demo</strong></a>
 
