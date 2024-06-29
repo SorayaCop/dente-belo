@@ -2,7 +2,7 @@
 
 <h2 align="center">DenteBelo</h2>
 
-DenteBelo é um site de portfólio totalmente responsivo, para todos os dispositivos, usando HTML, CSS e JavaScript.
+DenteBelo é um site de simulação para consultórios dentarios onde utilizo ferramentas para demostrar habilidades de FrontEnd em um site Estatico.
 
 <a href=""><strong>➥ Live Demo</strong></a>
 
